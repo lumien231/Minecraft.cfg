@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minecraftcfg",
+  "name": "Minecraft.cfg",
+  "description": "Adds a config file for the vanilla game",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["lumien"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
